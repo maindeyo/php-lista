@@ -1,0 +1,2 @@
+<?php
+$numeros = readline("Numeros:");
